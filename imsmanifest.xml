@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="matematica" version="1.2"
+          xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                              http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd" >
+
+  <organizations default="matematica-EE LOKAC">
+    <organization identifier="matematica-EE LOKAC">
+      <title>Matemática</title>
+      <item identifier="identifier" identifierref="arquivos">
+        <title>Matemática</title>
+        <adlcp:masteryscore>60</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+
+  <resources>
+    <resource identifier="arquivos" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="assets/css/cores.css" />
+      <file href="assets/css/dialog.css" />
+      <file href="assets/css/global.css" />
+      <file href="assets/css/impressao.css" />
+      <file href="assets/fonts/custom/icomoon.woff" />
+      <file href="assets/fonts/font-awesome/fa-solid-900.woff" />
+      <file href="assets/fonts/font-awesome/fontawesome.css" />
+      <file href="assets/fonts/font-awesome/solid.css" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-100.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-100italic.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-200.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-200italic.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-300.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-300italic.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-500.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-500italic.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-600.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-600italic.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-700.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-700italic.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-italic.woff" />
+      <file href="assets/fonts/poppins/poppins-v15-latin-regular.woff" />
+      <file href="assets/fonts/poppins/poppins.css" />
+      <file href="assets/icons/word.jpg" />
+      <file href="assets/icons/zip.png" />
+      <file href="assets/imagens/icone-aula.png" />
+      <file href="assets/imagens/seta.png" />
+      <file href="assets/imagens/seta.svg" />
+      <file href="assets/imagens/ticar0-altocontraste.svg" />
+      <file href="assets/imagens/ticar0-padrao.svg" />
+      <file href="assets/imagens/ticar1-altocontraste.svg" />
+      <file href="assets/imagens/ticar1-padrao.svg" />
+      <file href="assets/javascript/blob-stream-v0.1.2.min.js" />
+      <file href="assets/javascript/bundle.js" />
+      <file href="assets/javascript/pdfkit.0.8.0.min.js" />
+      <file href="assets/javascript/scorm-adapter.min.js" />
+      <file href="aula.js" />
+      <file href="config/config.css" />
+      <file href="config/config.js" />
+      <file href="curriculos.json" />
+      <file href="dados-aula.json" />
+      <file href="index.html" />
+      <file href="poster.jpg" />
+      <file href="questoes/8891/icone-erro.svg" />
+      <file href="questoes/8891/icone-sucesso.svg" />
+      <file href="questoes/8891/questao.js" />
+      <file href="questoes/9654/icone-erro.svg" />
+      <file href="questoes/9654/icone-sucesso.svg" />
+      <file href="questoes/9654/questao.js" />
+      
+    </resource>
+  </resources>
+</manifest>
