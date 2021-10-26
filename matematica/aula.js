@@ -1,0 +1,1 @@
+var $configuracao={"id":"matematica","titulo":"Matemática","conteudo":["9654","8891"],"tentativas":"2","texto-maiusculo":"false","imports":["questoes/9654/questao.js","questoes/8891/questao.js"],"relatorio-detalhado":"true","enviar-email-relatorio":"true"}
