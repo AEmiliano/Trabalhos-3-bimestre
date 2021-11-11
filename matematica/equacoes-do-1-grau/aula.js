@@ -1,0 +1,1 @@
+var $configuracao={"id":"equacoes-do-1-grau","titulo":"equações do 1° grau","conteudo":["8152","9184","4371","8618"],"tentativas":"2","texto-maiusculo":"false","imports":["questoes/8152/questao.js","questoes/8618/questao.js","questoes/9184/questao.js","questoes/4371/questao.js"],"relatorio-detalhado":"true","enviar-email-relatorio":"true"}
